@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+   <channel>
+      <title>Canal RSS de Videojuegos</title>
+      <link>http://ejemplo-videojuegos.com</link>
+      <description>Últimas noticias y novedades sobre videojuegos</description>
+      <language>es-ES</language>
+      <image>
+         <title>Canal RSS de Videojuegos</title>
+         <url>http://ejemplo-videojuegos.com/milogo.gif</url>
+         <link>http://ejemplo-videojuegos.com</link>
+         <width>128</width>
+         <height>128</height>
+      </image>
+      <item>
+         <title>Nuevo lanzamiento: "Juego 1"</title>
+         <link>http://ejemplo-videojuegos.com/juego1</link>
+         <pubDate>Mon, 19 Jun 2023 15:00:00 GMT</pubDate>
+         <description>¡Descubre el emocionante mundo de "Juego 1" con esta nueva entrega de la aclamada saga de videojuegos! Explora mundos asombrosos, completa desafiantes misiones y enfrenta a poderosos enemigos en esta épica aventura.</description>
+      </item>
+      <item>
+         <title>Avance exclusivo: "Juego 2"</title>
+         <link>http://ejemplo-videojuegos.com/juego2</link>
+         <pubDate>Tue, 20 Jun 2023 10:30:00 GMT</pubDate>
+         <description>Te presentamos un adelanto exclusivo del próximo lanzamiento de "Juego 2". Prepárate para sumergirte en un mundo de acción trepidante, gráficos impresionantes y una historia apasionante que te mantendrá pegado al mando durante horas.</description>
+      </item>
+   </channel>
+</rss>
